@@ -4,7 +4,7 @@ A Python-based financial red flag screener for the North American apparel retail
 
 ## Quick Access
 - Main notebook:https://github.com/Amiee648/ACC102-apparel-retail-industry-red-flag-analysis/blob/main/A%20Beginner-friendly%20Financial%20Red%20Flag%20Screener%20for%20Sportswear%20and%20Apparel%20Retail%20Companies_%E5%89%AF%E6%9C%AC.ipynb 
-- Demo video: 
+- Demo video: https://video.xjtlu.edu.cn/Mediasite/Play/48e61ca448f54f9fa8777bee9f0846cb1d
 
 ## Problem
 This project builds a simple financial red flag screener for the North American apparel retail industry. The purpose is to help beginner investors and business students identify potential warning signs by comparing revenue growth with inventory growth, fixed asset growth, and accounts receivable growth over the most recent fiscal years.
