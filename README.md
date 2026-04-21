@@ -3,7 +3,7 @@
 A Python-based financial red flag screener for the North American apparel retail industry, identifying operational divergence through growth rate analysis.
 
 ## Quick Access
-- Main notebook: 
+- Main notebook:https://github.com/Amiee648/ACC102-apparel-retail-industry-red-flag-analysis/blob/main/A%20Beginner-friendly%20Financial%20Red%20Flag%20Screener%20for%20Sportswear%20and%20Apparel%20Retail%20Companies_%E5%89%AF%E6%9C%AC.ipynb 
 - Demo video: 
 
 ## Problem
